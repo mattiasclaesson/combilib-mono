@@ -1,0 +1,4 @@
+04-10-2012 17:29:50 - Start CheckFlashStatus
+04-10-2012 17:29:50 - Status retrieved
+04-10-2012 17:29:50 - Status = T7.Flasher.T7Flasher.FlashStatus.Completed
+04-10-2012 17:29:50 - Starting download of flash

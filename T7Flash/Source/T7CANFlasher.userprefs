@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CAN/LPCCANDevice_T7.cs">
+    <Files>
+      <File FileName="CAN/LPCCANDevice_T7.cs" Line="248" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="T7CANFlasher" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="CAN" expanded="True">
+              <Node name="LPCCANDevice_T7.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="C:\Program Files\Dilemma\T7Flash\Source\T7Flasher.cs" line="385" />
+      <Breakpoint enabled="false" file="C:\Program Files\Dilemma\T7Flash\Source\T7Flasher.cs" line="432" />
+      <Breakpoint enabled="false" file="C:\Program Files\Dilemma\T7Flash\Source\CAN\CANUSBDevice.cs" line="266" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

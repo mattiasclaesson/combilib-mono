@@ -1,0 +1,24 @@
+25-10-2012 23:02:41 - Start CheckFlashStatus
+25-10-2012 23:02:41 - Status retrieved
+25-10-2012 23:02:41 - Status = T7.Flasher.T7Flasher.FlashStatus.Completed
+25-10-2012 23:02:41 - Starting download of flash
+26-10-2012 22:34:47 - Start CheckFlashStatus
+26-10-2012 22:34:47 - Status retrieved
+26-10-2012 22:34:47 - Status = T7.Flasher.T7Flasher.FlashStatus.Completed
+26-10-2012 22:34:47 - Starting download of flash
+30-12-2012 00:12:21 - Start CheckFlashStatus
+30-12-2012 00:12:21 - Status retrieved
+30-12-2012 00:12:21 - Status = T7.Flasher.T7Flasher.FlashStatus.Completed
+30-12-2012 00:12:21 - Starting download of flash
+30-12-2012 00:27:24 - Start CheckFlashStatus
+30-12-2012 00:27:24 - Status retrieved
+30-12-2012 00:27:24 - Status = T7.Flasher.T7Flasher.FlashStatus.Completed
+30-12-2012 00:27:24 - Starting download of flash
+30-12-2012 00:32:50 - Start CheckFlashStatus
+30-12-2012 00:32:50 - Status retrieved
+30-12-2012 00:32:50 - Status = T7.Flasher.T7Flasher.FlashStatus.Completed
+30-12-2012 00:32:50 - Starting download of flash
+30-12-2012 00:46:37 - Start CheckFlashStatus
+30-12-2012 00:46:37 - Status retrieved
+30-12-2012 00:46:37 - Status = T7.Flasher.T7Flasher.FlashStatus.Completed
+30-12-2012 00:46:37 - Starting download of flash

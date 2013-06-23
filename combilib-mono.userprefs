@@ -1,0 +1,49 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="T7Flash/Source/CAN/LPCCANDevice_T7.cs">
+    <Files>
+      <File FileName="combilib-mono/caAdapterBase.cs" Line="57" Column="23" />
+      <File FileName="T7Flash/Source/CAN/LPCCANDevice_T7.cs" Line="12" Column="14" />
+      <File FileName="combilib-mono/caLibUsbAdapter.cs" Line="108" Column="1" />
+      <File FileName="T7Flash/Source/Form1.cs" Line="469" Column="25" />
+      <File FileName="combilib-mono/caUSBBDM2.cs" Line="52" Column="1" />
+      <File FileName="T7Flash/Source/Program.cs" Line="13" Column="40" />
+      <File FileName="combilib-mono/caCombiAdapter.cs" Line="104" Column="1" />
+      <File FileName="T7Flash/Source/CAN/Lawicel_canusb.cs" Line="30" Column="39" />
+      <File FileName="T7Flash/Source/CAN/ICANDevice.cs" Line="138" Column="9" />
+      <File FileName="T7Flash/Source/CAN/CANUSBDevice.cs" Line="8" Column="17" />
+      <File FileName="T7Flash/Source/CAN/CANMessage.cs" Line="97" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Paket" expanded="True" selected="True" />
+          <Node name="T7CANFlasher" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="CAN" expanded="True" />
+            <Node name="KWP" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>data</Value>
+          <Value>crc</Value>
+          <Value>kalle</Value>
+          <Value>data</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mattiasclaesson/Projects/combilib-mono/T7Flash/Source/CAN/LPCCANDevice_T7.cs" line="339" />
+      <Breakpoint file="/Users/mattiasclaesson/Projects/combilib-mono/T7Flash/Source/Form1.cs" line="380" />
+      <Breakpoint file="/Users/mattiasclaesson/Projects/combilib-mono/T7Flash/Source/CAN/LPCCANDevice_T7.cs" line="55" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

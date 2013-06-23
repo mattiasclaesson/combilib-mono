@@ -1,0 +1,20 @@
+10-05-2012 00:24:21 - VIN: YS3EH55GX63510826
+10-05-2012 00:24:22 - Immo: 237IDG105426003
+10-05-2012 00:24:22 - Engine type: :9-5 B235R BIOPOWER SE         
+10-05-2012 00:24:22 - Software version: ET03F01C.46S
+10-05-2012 00:25:15 - Start CheckFlashStatus
+10-05-2012 00:25:15 - Status retrieved
+10-05-2012 00:25:15 - Status = T7.Flasher.T7Flasher.FlashStatus.DoinNuthin
+10-05-2012 00:25:15 - Starting download of flash
+10-05-2012 00:25:15 - Starting session...
+10-05-2012 00:25:16 - Session started, requesting security access to ECU
+10-05-2012 00:25:16 - Reading data from ECU...
+10-05-2012 00:34:20 - Flasing procedure completed
+10-05-2012 00:34:20 - Finished download of flash
+10-05-2012 22:24:51 - Start CheckFlashStatus
+10-05-2012 22:24:51 - Status retrieved
+10-05-2012 22:24:51 - Status = T7.Flasher.T7Flasher.FlashStatus.DoinNuthin
+10-05-2012 22:24:51 - Starting download of flash
+10-05-2012 22:24:51 - Starting session...
+10-05-2012 22:24:52 - Session started, requesting security access to ECU
+10-05-2012 22:24:52 - Reading data from ECU...

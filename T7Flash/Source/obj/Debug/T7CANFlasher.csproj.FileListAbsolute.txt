@@ -1,0 +1,11 @@
+C:\Program Files\Dilemma\T7Flash\Source\bin\Debug\T7CANFlasher.exe
+C:\Program Files\Dilemma\T7Flash\Source\bin\Debug\T7CANFlasher.pdb
+C:\Program Files\Dilemma\T7Flash\Source\bin\Debug\combilib-net.dll
+C:\Program Files\Dilemma\T7Flash\Source\bin\Debug\LibUsbDotNet.dll
+C:\Program Files\Dilemma\T7Flash\Source\bin\Debug\FTD2XX_NET.dll
+C:\Program Files\Dilemma\T7Flash\Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Dilemma\T7Flash\Source\obj\Debug\T7CANFlasher.Form1.resources
+C:\Program Files\Dilemma\T7Flash\Source\obj\Debug\T7CANFlasher.Properties.Resources.resources
+C:\Program Files\Dilemma\T7Flash\Source\obj\Debug\T7CANFlasher.csproj.GenerateResource.Cache
+C:\Program Files\Dilemma\T7Flash\Source\obj\Debug\T7CANFlasher.exe
+C:\Program Files\Dilemma\T7Flash\Source\obj\Debug\T7CANFlasher.pdb
